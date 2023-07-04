@@ -1,9 +1,0 @@
-{
-	"name": "Airtravel1",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "09af1f02-e396-4655-a7b9-934617c5a1a5",
-		"tenantId": "3a8249a1-1172-401c-a203-d4a324916f57"
-	}
-}
